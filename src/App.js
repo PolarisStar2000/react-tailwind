@@ -14,10 +14,7 @@ const App = () => (
           </div>
           <div className="divide-y divide-gray-200">
             <div className="space-y-4 py-8 text-base leading-6 text-gray-700 sm:text-lg sm:leading-7">
-              <p>
-                Quickly setup a React project with Create React App and Tailwind
-                CSS.
-              </p>
+              <p>Quickly setup a React project with Tailwind CSS.</p>
               <ul className="list-disc space-y-2">
                 <li className="flex items-start">
                   <span className="flex h-6 items-center sm:h-7">
